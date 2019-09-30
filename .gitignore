@@ -6,6 +6,8 @@ build/
 *.perspectivev3
 xcuserdata/
 *.xccheckout
+.build
+.swiftpm
 
 # old skool
 .svn
