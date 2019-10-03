@@ -1,5 +1,0 @@
-module MBProgressHUD {
-    header "MBProgressHUD.h"
-    
-    export *
-}
